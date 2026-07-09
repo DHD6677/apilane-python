@@ -322,7 +322,7 @@ The interface is intentionally identical. The only changes are: the import name,
 ## Development
 
 ```bash
-git clone https://github.com/apilane/apilane-python
+git clone https://github.com/DHD6677/apilane-python
 cd apilane-python
 python3 -m venv .venv
 .venv/bin/pip install -e ".[dev]"
@@ -342,5 +342,5 @@ MIT — see [LICENSE](LICENSE).
 - Website: https://apilane.one
 - Docs: https://apilane.one/docs
 - Pricing: https://apilane.one/pricing
-- Status: https://stats.uptimerobot.com/dFPmjei6XoV/
-- Issues: https://github.com/apilane/apilane-python/issues
+- Status: https://apilane.one/status
+- Issues: https://github.com/DHD6677/apilane-python/issues

@@ -48,8 +48,8 @@
  [project.urls]
  Homepage = "https://apilane.one"
  Documentation = "https://apilane.one/docs"
- Repository = "https://github.com/apilane/apilane-python"
- Issues = "https://github.com/apilane/apilane-python/issues"
+Repository = "https://github.com/DHD6677/apilane-python"
+Issues = "https://github.com/DHD6677/apilane-python/issues"
  
  [tool.hatch.build.targets.wheel]
  packages = ["apilane"]
