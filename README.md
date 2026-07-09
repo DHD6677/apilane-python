@@ -342,5 +342,5 @@ MIT — see [LICENSE](LICENSE).
 - Website: https://apilane.one
 - Docs: https://apilane.one/docs
 - Pricing: https://apilane.one/pricing
-- Status: https://apilane.one/status
+- Status: https://stats.uptimerobot.com/eHPmpHnXoV
 - Issues: https://github.com/DHD6677/apilane-python/issues
